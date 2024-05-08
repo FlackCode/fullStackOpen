@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715172079657,
+      "tag": "0000_burly_oracle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715172196098,
+      "tag": "0001_kind_korath",
+      "breakpoints": true
+    }
+  ]
+}
