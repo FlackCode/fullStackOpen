@@ -1,0 +1,7 @@
+name = "phone-backend"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cfw-contacts"
+database_id = "68bcf497-8f2b-49b4-b453-931e888334aa"
